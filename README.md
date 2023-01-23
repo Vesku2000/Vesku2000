@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer student
 ---------------------
 
-Second year student in VAMK. I'm looking trainee positions in Turku/Vaasa. I know best js, css/scss, react, html, php, photoshop, video editing, unity and sass.
+Second year student in VAMK. I'm looking trainee positions in Turku/Vaasa. 
 
 *   🌍  I'm based in Finland
 *   🖥️  See my portfolio at [My portfolio](http://valtteri-portfolio.netlify.app)
