@@ -20,8 +20,8 @@ Second year student in VAMK. I'm looking trainee positions in Turku/Vaasa.
 *   🌍  I'm based in Finland
 *   🖥️  See my portfolio at [My portfolio](http://valtteri-portfolio.netlify.app)
 *   ✉️  You can contact me at [valtterisyrjanen@gmail.com](mailto:valtterisyrjanen@gmail.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on All kind of projects and jobs in tech
+*   🧠  I'm learning React & react-native
+*   🤝  I'm open to collaborating on all kind of projects and jobs in tech
 *   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
