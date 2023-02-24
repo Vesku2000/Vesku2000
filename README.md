@@ -16,6 +16,7 @@ Web developer student
 ---------------------
 
 Second year student in VAMK. I'm looking trainee positions in Turku/Vaasa. 
+I'm open to collab and do projects together.
 
 *   🌍  I'm based in Finland
 *   🖥️  See my portfolio at [My portfolio](http://valtteri-portfolio.netlify.app)
