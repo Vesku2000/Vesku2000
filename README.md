@@ -18,8 +18,8 @@ Web developer student
 Second year student in VAMK. I'm looking trainee positions in Turku/Vaasa. 
 I'm open to collab and do projects together.
 
-*   🌍  I'm based in Finland
-*   🖥️  See my portfolio at [My portfolio](http://valtteri-portfolio.netlify.app)
+*   🌍  I'm living in Finland
+*   🖥️  See my portfolio at [PORTFOLIO](http://valtteri-portfolio.netlify.app)
 *   ✉️  You can contact me at [valtterisyrjanen@gmail.com](mailto:valtterisyrjanen@gmail.com)
 *   🧠  I'm focusing now to learn react better
 *   🤝  I'm open to collaborating on all kind of projects and jobs in tech
