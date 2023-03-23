@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer student
 ---------------------
 
-Second year student in VAMK. I'm looking trainee positions in Turku. 
+Second year student in VAMK. I'm looking trainee positions in Turku or Vaasa. 
 I'm open to collab and do projects together.
 
 *   🌍  I'm living in Finland
